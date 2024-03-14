@@ -1,5 +1,3 @@
-**This repository is currently not maintained**
-
 Go Smart Card API
 =================
 
@@ -36,7 +34,7 @@ Usage
     
     import (
         "fmt"
-        "github.com/sf1/go-card/smartcard"
+        "github.com/Noofbiz/go-card/smartcard"
     )
     
     ctx, err := smartcard.EstablishContext()
